@@ -1,8 +1,0 @@
-c:\users\notebookzhao\documents\visual studio 2012\Projects\bh3_cxxd_201818215\bh3_cxxd_201818215\bin\Debug\bh3_cxxd_201818215.exe.config
-c:\users\notebookzhao\documents\visual studio 2012\Projects\bh3_cxxd_201818215\bh3_cxxd_201818215\bin\Debug\bh3_cxxd_201818215.exe
-c:\users\notebookzhao\documents\visual studio 2012\Projects\bh3_cxxd_201818215\bh3_cxxd_201818215\bin\Debug\bh3_cxxd_201818215.pdb
-c:\users\notebookzhao\documents\visual studio 2012\Projects\bh3_cxxd_201818215\bh3_cxxd_201818215\obj\Debug\bh3_cxxd_201818215.Form1.resources
-c:\users\notebookzhao\documents\visual studio 2012\Projects\bh3_cxxd_201818215\bh3_cxxd_201818215\obj\Debug\bh3_cxxd_201818215.Properties.Resources.resources
-c:\users\notebookzhao\documents\visual studio 2012\Projects\bh3_cxxd_201818215\bh3_cxxd_201818215\obj\Debug\bh3_cxxd_201818215.csproj.GenerateResource.Cache
-c:\users\notebookzhao\documents\visual studio 2012\Projects\bh3_cxxd_201818215\bh3_cxxd_201818215\obj\Debug\bh3_cxxd_201818215.exe
-c:\users\notebookzhao\documents\visual studio 2012\Projects\bh3_cxxd_201818215\bh3_cxxd_201818215\obj\Debug\bh3_cxxd_201818215.pdb
